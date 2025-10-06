@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Management App
 ## Introduction
 Project milestone 3 for Code Institute Full-stack development program: backend development using Python-Flask and MongoDB.
@@ -303,3 +304,7 @@ GitHub: https://github.com/Vamshi5S/Stock_Management_main.git
 
 
 ## THANK YOU 
+=======
+# Stock-management-system
+A full-stack web application built with Python Flask and MongoDB for efficient inventory management and stock flow tracking. This system helps small business owners automate stock control processes and eliminate manual spreadsheet tracking.
+>>>>>>> 61ac60e09b36464b153c24610d28d0bacf465065
